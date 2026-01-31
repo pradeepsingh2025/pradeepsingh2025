@@ -1,4 +1,4 @@
-# Hi, I'm Peter 👋
+# Hi, I'm Pradeep 👋
 "A Full Stack Developer and final-year IT undergraduate with a passion for building scalable web applications and intelligent systems. With a strong command of the Next.js, MERN ecosystems and Spring Boot, I have delivered client projects and engineered real-time, event-driven architectures using Socket.IO. Beyond traditional web development, I am actively exploring the intersection of software engineering and AI, leveraging tools like LangChain and LangGraph to create context-aware solutions.
 
 
