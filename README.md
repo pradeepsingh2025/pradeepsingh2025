@@ -1,7 +1,7 @@
 # Hi, I'm Pradeep 👋
 
 ```typescript
-Building something crazy..
+Building something crazy...
 ```
 
 
