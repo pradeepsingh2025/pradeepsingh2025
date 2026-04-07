@@ -15,11 +15,10 @@ I'm a developer who loves building things from scratch — whether it's pushing 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 
+---
 
 **GitHub Stats**
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pradeepsingh2025&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
- 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pradeepsingh2025&theme=github_dark" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pradeepsingh2025&theme=github" />
