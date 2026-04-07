@@ -1,30 +1,35 @@
 # Hi, I'm Pradeep 👋
+*building something crazy*
 
-```typescript
-Building something crazy...
-```
-
-
-## 🌐 Connect me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pradeepsingh2025) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/xpradeepsingh) [![gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pradeepsinghsolanki36@gmail.com) 
-
-# 💻 Using:
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-
-<!--
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=pradeepsingh2025&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=pradeepsingh2025&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pradeepsingh2025&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
--->
-
-<!--
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=pradeepsingh2025&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=pradeepsingh2025&limit=5&theme=dark&combine_all_yearly_contributions=true)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/pradeepsingh2025)
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/xpradeepsingh)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:pradeepsinghsolanki36@gmail.com)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=pradeepsingh2025&icon=0&color=0)](https://visitcount.itsvg.in)
--->
+
+**About**
+I'm a developer who loves building things from scratch — whether it's pushing the limits of the web, experimenting with AI, or just shipping something I'm proud of.
+
+---
+
+**Stack**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+
+---
+
+**GitHub Stats**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=pradeepsingh2025&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000&title_color=e6edf3&text_color=8b949e&icon_color=58a6ff" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pradeepsingh2025&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=pradeepsingh2025&layout=compact&theme=github_dark&hide_border=true&count_private=true&bg_color=00000000&title_color=e6edf3&text_color=8b949e" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradeepsingh2025&layout=compact&theme=default&hide_border=true&count_private=true&bg_color=00000000" />
+</picture>
