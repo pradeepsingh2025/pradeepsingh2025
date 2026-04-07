@@ -17,6 +17,8 @@ I'm a developer who loves building things from scratch — whether it's pushing 
 
 
 **GitHub Stats**
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pradeepsingh2025&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pradeepsingh2025&theme=github_dark" />
