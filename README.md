@@ -1,14 +1,11 @@
 # Hi, I'm Pradeep 👋
 *building something crazy*
 
+I'm a developer who loves building things from scratch — whether it's pushing the limits of the web, experimenting with AI, or just shipping something I'm proud of.
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/pradeepsingh2025)
 [![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/xpradeepsingh)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:pradeepsinghsolanki36@gmail.com)
-
----
-
-**About**
-I'm a developer who loves building things from scratch — whether it's pushing the limits of the web, experimenting with AI, or just shipping something I'm proud of.
 
 ---
 
@@ -25,11 +22,17 @@ I'm a developer who loves building things from scratch — whether it's pushing 
 **GitHub Stats**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=pradeepsingh2025&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000&title_color=e6edf3&text_color=8b949e&icon_color=58a6ff" />
-  <img src="https://github-readme-stats.vercel.app/api?username=pradeepsingh2025&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=pradeepsingh2025&theme=github-dark-blue&hide_border=true&background=00000000&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=8b949e&sideLabels=8b949e&currStreakNum=e6edf3&sideNums=e6edf3&dates=8b949e" />
+  <img src="https://streak-stats.demolab.com?user=pradeepsingh2025&theme=default&hide_border=true&background=00000000" />
 </picture>
-
+ 
+<br/>
+ 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=pradeepsingh2025&layout=compact&theme=github_dark&hide_border=true&count_private=true&bg_color=00000000&title_color=e6edf3&text_color=8b949e" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradeepsingh2025&layout=compact&theme=default&hide_border=true&count_private=true&bg_color=00000000" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pradeepsingh2025&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pradeepsingh2025&theme=github" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pradeepsingh2025&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pradeepsingh2025&theme=github" />
 </picture>
