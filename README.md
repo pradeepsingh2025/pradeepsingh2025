@@ -1,7 +1,6 @@
 ### Hi, I'm Pradeep 👋
-*building something crazy*
 
-I'm a developer who loves building things from scratch - whether it's pushing the limits of the web, experimenting with AI, or just shipping something I'm proud of.
+A developer who loves building things from scratch - whether it's pushing the limits of the web, experimenting with AI, or just shipping something I'm proud of.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/pradeepsingh2025)
 [![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/xpradeepsingh)
