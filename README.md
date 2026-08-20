@@ -27,10 +27,6 @@ Full-stack dev. I build things from scratch — web, AI, and whatever I'm curiou
 | | |
 |---|---|
 | [Kuiz Space](https://kuiz.space) | Quiz platform — practice at your own pace |
-| [Resumter](https://github.com/pradeepsingh2025/01-ai-resume-analyser) | Analyse & rewrite your resume against a JD |
-| [AI Tutor Orchestrator](https://github.com/pradeepsingh2025/AI-Tutor-Orchestrator) | Middleware that routes students to the right learning tool |
-| [Klay Kolor](https://www.klaykolor.fun) | Real-time multi-period betting platform |
-| [Book Your Show](https://github.com/pradeepsingh2025/movie-frontend) | Cinema booking — Spring Boot API + Next.js |
 
 ---
 
