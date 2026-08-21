@@ -20,6 +20,7 @@ Full-stack dev. I build things from scratch — web, AI, and whatever I'm curiou
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
+<!-- 
 ---
 
 **Building**
@@ -31,3 +32,4 @@ Full-stack dev. I build things from scratch — web, AI, and whatever I'm curiou
 ---
 
 <img src="https://github-readme-stats.vercel.app/api?username=pradeepsingh2025&show_icons=true&hide_border=true&hide_title=true&card_width=420&theme=transparent" height="140" alt="stats" />
+-->
