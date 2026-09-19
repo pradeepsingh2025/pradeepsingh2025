@@ -2,7 +2,7 @@
 
 Full-stack dev. I build things from scratch — web, AI, and whatever I'm curious about.
 
-[![Website](https://img.shields.io/badge/pradeepswork.space-000000?style=flat&logo=vercel&logoColor=white)](https://pradeepswork.space)
+[![Website](https://img.shields.io/badge/pradeepsinghsolanki-000000?style=flat&logo=vercel&logoColor=white)](https://pradeepsinghsolanki.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/pradeepsingh2025)
 [![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/xpradeepsingh)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:pradeepsinghsolanki36@gmail.com)
